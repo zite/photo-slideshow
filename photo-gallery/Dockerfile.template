@@ -1,1 +1,1 @@
-FROM bh.cr/balenalabs/photo-gallery-%%BALENA_ARCH%%/0.0.4
+FROM bh.cr/balenalabs/photo-gallery-%%BALENA_ARCH%%
