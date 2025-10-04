@@ -13,7 +13,8 @@ data:
     - LAUNCH_URL: 'http://photo-gallery:8888/'
     - KIOSK: '1'
     - GALLERY_URL: ''
-  defaultDeviceType: "raspberrypi3"
+  defaultDeviceType: "raspberrypi4-64"
   supportedDeviceTypes:
     - "raspberrypi3"
+    - "raspberrypi4-64"
 version: 0.2.0
